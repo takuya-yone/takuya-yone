@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takuya-yone&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takuya-yone&theme=tokyonight)
 
 <p>
-<a href="https://github.com/miwashutaro0611">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=takuya-yone&count_private=true&show_icons=true&theme=dracula" />
+<a href="https://github.com/takuya-yone">
+  <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=takuya-yone&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/miwashutaro0611">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takuya-yone&layout=compact&theme=dracula" />
+<a href="https://github.com/takuya-yone">
+  <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takuya-yone&layout=compact&theme=tokyonight" />
 </a>
 </p>
 
