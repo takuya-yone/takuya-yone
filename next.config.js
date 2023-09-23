@@ -6,6 +6,9 @@ const nextConfig = {
     reactStrictMode: true,
     assetPrefix: repositoryName,
     basePath: repositoryName,
+    trailingSlash: true,
+    publicRuntimeConfig: { repositoryName },
+
 }
 
 module.exports = nextConfig

@@ -1,5 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 import Image from "next/image";
+import { url } from "../utils/urlconfig";
 
 export default function Home() {
   return (
@@ -17,8 +18,8 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             By{" "}
-            <img
-              src="/vercel.svg"
+            <Image
+              src={url("/vercel.svg")}
               alt="Vercel Logo"
               className="dark:invert"
               width={100}
